@@ -1,7 +1,7 @@
 # -STM32-
 通过制作一个stm32读卡器来锻炼自己的Embeded Level
 
-
+可是由于stm32芯片的USB原因，读写的速度很慢，只能几百k！
 
 # 笔记：
 
@@ -15,7 +15,7 @@ https://blog.csdn.net/ysgjiangsu/article/details/89930634
 
 要注意的是：原子的例程里面，delay_ms()里面，传入的参数不能超过1000！！！
 
-898989889
+
 
 ### 硬件：
 
